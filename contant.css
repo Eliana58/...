@@ -1,0 +1,61 @@
+*{
+    font-family: 'Sansita Swashed', cursive;
+}
+
+
+
+form{
+width: 500px;
+margin:20px auto;
+border:4px rgb(140, 112, 216);
+padding: 40px;
+}
+
+.card {
+    text-align: center;
+    
+}
+
+
+
+
+.bt:hover{
+    background-color: rgb(240, 182, 240);
+}
+ 
+body {
+    box-sizing: border-box;
+     }
+
+
+.bt{
+background-color: rgb(240, 167, 191);
+border: none;
+border-radius: 5px;
+}
+
+#header{
+    text-shadow: -2px 2px 1px rgb(240, 167, 191);
+}
+
+input{
+    width: 100px;
+    transition: width 2s ease-in-out;
+    background-color: white;
+}
+ input:focus{
+     width: 250px;
+     background-color: violet;
+
+ }
+
+
+ .myVideo{
+    position: fixed;
+    z-index: -100;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    
+}

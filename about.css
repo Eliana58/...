@@ -1,0 +1,23 @@
+.mn{
+margin-left: 150px;
+padding-left: 40px;
+margin-right: 150px;
+
+}
+
+body {
+    background-image: url("backgraund\ for\ about.png");
+    box-sizing: border-box;
+     }
+.but{
+    background-color: rgb(193, 212, 247);
+
+    }
+.but:hover {
+    background-color:rgb(135, 92, 185);
+    transform: scale(2);
+}
+  .footer{
+    margin-top: 50px;
+    width: 100vw;
+}

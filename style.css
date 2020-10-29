@@ -1,0 +1,24 @@
+form{
+width: 500px;
+margin:20px auto;
+border:4px plum;
+padding: 40px;
+}
+
+.card {
+    text-align: center;
+}
+
+div table{
+    border:6px black solid;
+
+
+}
+
+.bt:hover{
+    background-color: crimson;
+}
+ 
+
+
+
